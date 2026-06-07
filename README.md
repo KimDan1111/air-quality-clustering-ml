@@ -42,8 +42,8 @@ It contains measurements of major air pollutants including PM2.5, PM10, NO2, and
 - Seaborn  
 - SciPy  
 
-## Project Structure
-The project currently contains a Jupyter Notebook implementing all clustering workflows, along with dataset and results generated during analysis.
+## Development Environment
+The project was developed using Google Colab for experimentation and implementation of machine learning workflows.
 
 
 ## Results
