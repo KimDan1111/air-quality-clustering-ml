@@ -45,17 +45,6 @@ It contains measurements of major air pollutants including PM2.5, PM10, NO2, and
 ## Project Structure
 The project currently contains a Jupyter Notebook implementing all clustering workflows, along with dataset and results generated during analysis.
 
-## How to Run the Project
-
-Clone the repository:
-git clone https://github.com/your-username/air-quality-clustering-ml.git  
-cd air-quality-clustering-ml  
-
-Install dependencies:
-pip install -r requirements.txt  
-
-Run the notebook:
-jupyter notebook notebooks/air_quality_clustering.ipynb  
 
 ## Results
 The clustering models successfully identified distinct air quality groups based on pollutant concentrations, revealing meaningful environmental patterns and pollution levels.
